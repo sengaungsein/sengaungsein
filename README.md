@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sengaungsein
 - 👀 I’m interested in human rights, data science 
-- 🌱 I’m currently learning data visualization at Emory 
 - 💞️ I’m looking to collaborate on anyting
 - 📫 How to reach me ...
 - 😄 Pronouns: ...he/him
